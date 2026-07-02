@@ -63,7 +63,7 @@ O projeto demonstra estrutura de dados, busca em largura, busca em profundidade 
 
 **Tecnologias e conceitos:** C#, .NET, grafos, BFS, DFS, JSON, API REST, estrutura de dados.
 
-### [Sistema-de-batalha-RPG-distribu-do](https://github.com/luisgabrielMR/Sistema-de-batalha-RPG-distribu-do)
+### [rpg-battle-grpc](https://github.com/luisgabrielMR/Sistema-de-batalha-RPG-distribu-do)
 
 Sistema distribuído acadêmico com comunicação gRPC entre um cliente Python e um servidor Node.js. O projeto simula uma batalha de RPG e também utiliza transferência de arquivos por streaming.
 
